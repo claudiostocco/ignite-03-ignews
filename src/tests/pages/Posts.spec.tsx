@@ -43,7 +43,8 @@ describe('Posts page', () => {
                         slug: 'my-new-post',
                         title: 'My New Post',
                         excerpt: 'Post excerpt',
-                        updatedAt: '21 de julho de 2021'
+                        updatedAt: 'July 21, 2021'
+                        // updatedAt: '21 de julho de 2021'
                     }]
                 }
             })
